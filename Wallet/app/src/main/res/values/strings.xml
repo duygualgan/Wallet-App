@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="homeText">Hoşgeldiniz \nDuygu Hanım</string>
+    <string name="gelir">Toplam Gelir : 5500 TL</string>
+    <string name="kalan">Kalan Para: 2460 TL</string>
+    <string name="ekran">Harcamalar</string>
+    <string-array name="harcama_turu">
+        <item>Kira</item>
+        <item>Araba</item>
+        <item>Mutfak</item>
+        <item>Kahve</item>
+        <item>Alışveriş</item>
+        <item>Tatil</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>
